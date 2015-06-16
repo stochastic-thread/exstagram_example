@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <h2>Welcome to the exstagram example!</h2>
+  <p class="lead">Instagram authentication</a> ⟶ <a href="<%= @url %>">Instagram</a></p>
+</div>
