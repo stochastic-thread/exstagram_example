@@ -6,7 +6,7 @@
   "hackney": {:hex, :hackney, "1.1.0"},
   "httpoison": {:hex, :httpoison, "0.7.0"},
   "idna": {:hex, :idna, "1.0.2"},
-  "instagram": {:git, "git://github.com/arthurcolle/exstagram.git", "29faca7a8b911cb8b457dc18148f2aa20d7f3878", []},
+  "instagram": {:git, "git://github.com/arthurcolle/exstagram.git", "36c3fdb89e8caf64b121e64fb3016e621d85f107", []},
   "oauth2": {:hex, :oauth2, "0.1.1"},
   "phoenix": {:hex, :phoenix, "0.13.1"},
   "phoenix_ecto": {:hex, :phoenix_ecto, "0.4.0"},
