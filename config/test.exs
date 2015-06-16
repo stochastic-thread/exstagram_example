@@ -8,11 +8,3 @@ config :example_exstagram, ExampleExstagram.Endpoint,
 
 # Print only warnings and errors during test
 config :logger, level: :warn
-
-# Configure your database
-config :example_exstagram, ExampleExstagram.Repo,
-  adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
-  database: "example_exstagram_test",
-  size: 1 # Use a single connection for transactional tests
