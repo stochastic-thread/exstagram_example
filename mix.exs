@@ -35,7 +35,7 @@ defmodule ExampleExstagram.Mixfile do
      {:phoenix_html, "~> 1.0"},
      {:phoenix_live_reload, "~> 0.4", only: :dev},
      {:cowboy, "~> 1.0"},
-     {:instagram, "0.0.1", [github: "arthurcolle/exstagram"]}
+     {:instagram, "0.0.2", [github: "arthurcolle/exstagram"]}
    ]
   end
 end
