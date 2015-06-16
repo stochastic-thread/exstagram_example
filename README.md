@@ -8,3 +8,4 @@ To start your new Phoenix application:
 Now you can visit `localhost:4000` from your browser.
 
 Adding Heroku buildpack https://github.com/HashNuke/heroku-buildpack-elixir.git
+No database in example
